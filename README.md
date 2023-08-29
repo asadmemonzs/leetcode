@@ -2,5 +2,5 @@
 This repository contains my solutions for the Leetcode problems
 
 
-#Author
+#Author <br>
 @asadmemonsz
